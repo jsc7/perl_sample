@@ -1,1 +1,1 @@
-# samples
+This is a perl script that splits a structured data file at each entry so that each entry becomes its own file (e.g., temp.1, temp.2, temp3). This would be useful, for example, in breaking up a large XML file to individual files. In this case, the split takes place at "<\!-- documentid" 
